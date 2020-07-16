@@ -1,2 +1,9 @@
-# TCMO
-TCMO is short for 'The Complete Musician Outline'
+# 完全音乐理论教程（The Complete Musician）复习大纲与知识点概括
+
+### 内容提纲
+
+#### 第8章：调性支柱的主和弦与属和弦以及声部进行绪论
+#### 旋律、节奏与节拍对和声的影响及$ V_{7} $绪论
+
+### 更新日志
+
